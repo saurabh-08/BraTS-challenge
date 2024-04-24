@@ -6,7 +6,6 @@ Install the required dependencies by running: pip install -r requirements.txt
 Download the brain tumor dataset and organize it into the following directory structure:
 
 ├── Task01_BrainTumour/
-
 │   ├── imagesTr/
 
 │   └── labelsTr/
